@@ -20,7 +20,7 @@ fav_movie = {
 
 }
 
-fav_movie[:beauty_and_the_beast] = "1991 and 2017"
+fav_movie[:beauty_and_the_`beast] = "1991 and 2017"
 
 fav_movie.each do |key,value|
 
