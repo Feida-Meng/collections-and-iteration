@@ -13,7 +13,7 @@ movies = {
 
 # Make a new array that contains each row of the buttons on a phone. Each row should be an array.
 # The rows on a phone are: 1 2 3, 4 5 6, 7 8 9, * 0
-phone_buttons = [[1,2,3],[4,5,6],[7,8,9],[*,0]]
+phone_buttons = [[1,2,3],[4,5,6],[7,8,9],["*",0,"#"]]
 
 # Make a new array that contains information about three countries. Each country should be a hash that has a name, a continent, and whether or not it is an island.
 countries = [
